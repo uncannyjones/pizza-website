@@ -14,29 +14,6 @@ It is a pizza website which is built using React and TailwindCSS.
 
 <br>
 
-
-### How to get the form on your local machine:
-
----
-
-- Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
-- Go to the directory
-- Open react-tailwind-pizza-app folder
-- Open the terminal and run 
-```
-npm / yarn start
-```
-- The website will be opened in your browser.
-
-
-
-<br>
-
 ## Screenshots
 
 ![Demo1](src/images/pizza.png)
@@ -46,4 +23,3 @@ npm / yarn start
 <br>
 
 
-## Happy Coding!
